@@ -35,55 +35,12 @@ http_interactions:
       Etag:
       - W/"633-ID2rhvGPJdlJ0sxWepsLcWkBzik"
       Date:
-      - Mon, 24 May 2021 00:12:15 GMT
+      - Mon, 24 May 2021 23:38:29 GMT
       Via:
       - 1.1 vegur
     body:
       encoding: ASCII-8BIT
       string: !binary |-
         W3sicXVvdGUiOiJQaXZvdCEgUGl2b3QhIFBpdm90ISBQaXZvdCEgUGl2b3QhIiwiY2hhcmFjdGVyIjoiUm9zcyJ9LHsicXVvdGUiOiJKb2V5IGRvZXNuJ3Qgc2hhcmUgZm9vZCEiLCJjaGFyYWN0ZXIiOiJKb2V5In0seyJxdW90ZSI6Ikd1eXMgY2FuIGZha2UgaXQ/IFVuYmVsaWV2YWJsZSEgVGhlIG9uZSB0aGluZyB0aGF04oCZcyBvdXJzISIsImNoYXJhY3RlciI6Ik1vbmljYSJ9LHsicXVvdGUiOiJJdCdzIGEgbW9vIHBvaW50LiBJdCdzIGxpa2UgYSBjb3cncyBvcGluaW9uOyBpdCBkb2Vzbid0IG1hdHRlci4gSXQncyBtb28uIiwiY2hhcmFjdGVyIjoiSm9leSJ9LHsicXVvdGUiOiJZZWFoLCB0aGF0J3MgcmlnaHQuIEkgc3RlcHBlZCB1cCEgU2hlJ3MgbXkgZnJpZW5kIGFuZCBzaGUgbmVlZGVkIGhlbHAuIEFuZCBpZiBJIGhhdmUgdG8gSSdkIHBlZSBvbiBhbnkgb25lIG9mIHlvdS4iLCJjaGFyYWN0ZXIiOiJKb2V5In0seyJxdW90ZSI6IkJ1dCB0aGV5IGRvbid0IGtub3cgdGhhdCB3ZSBrbm93IHRoZXkga25vdyB3ZSBrbm93ISIsImNoYXJhY3RlciI6IlBob2ViZSJ9LHsicXVvdGUiOiJUaGlzIGlzIGJyYW5kLW5ldyBpbmZvcm1hdGlvbiEiLCJjaGFyYWN0ZXIiOiJQaG9lYmUifSx7InF1b3RlIjoiUGhvZWJlLiBUaGF0J3MgUCwgYXMgaW4gUGhvZWJlLCBIIGFzIGluIGhvZWJlLCBPIGFzIGluIG9lYmUsIEUgYXMgaW4gZWJlLCBCIGFzIGluIGJlYmUsIGFuZCBFIGFzIGluICdFbGxvIHRoZXJlIG1hdGUuIiwiY2hhcmFjdGVyIjoiUGhvZWJlIn0seyJxdW90ZSI6IkknbSBub3Qgc28gZ29vZCB3aXRoIHRoZSBhZHZpY2UuIENhbiBJIGludGVyZXN0IHlvdSBpbiBhIHNhcmNhc3RpYyBjb21tZW50PyIsImNoYXJhY3RlciI6IkNoYW5kbGVyIn0seyJxdW90ZSI6IkkgZ290IG9mZiB0aGUgcGxhbmUuIiwiY2hhcmFjdGVyIjoiUmFjaGVsIn0seyJxdW90ZSI6IkhvdyB5b3UgZG9pbj8iLCJjaGFyYWN0ZXIiOiJKb2V5In0seyJxdW90ZSI6IldlIHdlcmUgb24gYSBicmVhayEiLCJjaGFyYWN0ZXIiOiJSb3NzIn0seyJxdW90ZSI6IkkgZ3JldyB1cCBpbiBhIGhvdXNlIHdpdGggTW9uaWNhLCBva2F5LiBJZiB5b3UgZGlkbid0IGVhdCBmYXN0LCB5b3UgZGlkbid0IGVhdC4iLCJjaGFyYWN0ZXIiOiJSb3NzIn0seyJxdW90ZSI6IlVuYWdpLiIsImNoYXJhY3RlciI6IlJvc3MifSx7InF1b3RlIjoiU21lbGx5IGNhdCwgc21lbGx5IGNhdCwgd2hhdCBhcmUgdGhleSBmZWVkaW5nIHlvdT8gU21lbGx5IGNhdCwgc21lbGx5IGNhdCwgaXQncyBub3QgeW91ciBmYXVsdC4iLCJjaGFyYWN0ZXIiOiJQaG9lYmUifSx7InF1b3RlIjoiSnVzdCBzbyB5b3Uga25vdywgaXQncyBub3QgdGhhdCBjb21tb24sIGl0IGRvZXNuJ3QgaGFwcGVuIHRvIGV2ZXJ5IGd1eSwgYW5kIGl0IGlzIGEgYmlnIGRlYWwhIiwiY2hhcmFjdGVyIjoiUmFjaGVsIn0seyJxdW90ZSI6IkhlcmUgY29tZSB0aGUgbWVhdCBzd2VhdHMuIiwiY2hhcmFjdGVyIjoiSm9leSJ9LHsicXVvdGUiOiJMb29rIGF0IG1lISBJJ20gQ2hhbmRsZXIhIENvdWxkIEkgYmUgd2VhcmluZyBhbnkgbW9yZSBjbG90aGVzPyEiLCJjaGFyYWN0ZXIiOiJKb2V5In1d
-  recorded_at: Mon, 24 May 2021 00:12:15 GMT
-- request:
-    method: get
-    uri: https://friends-quotes-api.herokuapp.com/quotes
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v1.4.1
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: OK
-    headers:
-      Server:
-      - Cowboy
-      Connection:
-      - keep-alive
-      X-Powered-By:
-      - Express
-      Access-Control-Allow-Origin:
-      - "*"
-      Access-Control-Allow-Headers:
-      - Origin, X-Requested-With, Content-Type, Accept
-      Content-Type:
-      - application/json; charset=utf-8
-      Content-Length:
-      - '1587'
-      Etag:
-      - W/"633-ID2rhvGPJdlJ0sxWepsLcWkBzik"
-      Date:
-      - Mon, 24 May 2021 00:12:17 GMT
-      Via:
-      - 1.1 vegur
-    body:
-      encoding: ASCII-8BIT
-      string: !binary |-
-        W3sicXVvdGUiOiJQaXZvdCEgUGl2b3QhIFBpdm90ISBQaXZvdCEgUGl2b3QhIiwiY2hhcmFjdGVyIjoiUm9zcyJ9LHsicXVvdGUiOiJKb2V5IGRvZXNuJ3Qgc2hhcmUgZm9vZCEiLCJjaGFyYWN0ZXIiOiJKb2V5In0seyJxdW90ZSI6Ikd1eXMgY2FuIGZha2UgaXQ/IFVuYmVsaWV2YWJsZSEgVGhlIG9uZSB0aGluZyB0aGF04oCZcyBvdXJzISIsImNoYXJhY3RlciI6Ik1vbmljYSJ9LHsicXVvdGUiOiJJdCdzIGEgbW9vIHBvaW50LiBJdCdzIGxpa2UgYSBjb3cncyBvcGluaW9uOyBpdCBkb2Vzbid0IG1hdHRlci4gSXQncyBtb28uIiwiY2hhcmFjdGVyIjoiSm9leSJ9LHsicXVvdGUiOiJZZWFoLCB0aGF0J3MgcmlnaHQuIEkgc3RlcHBlZCB1cCEgU2hlJ3MgbXkgZnJpZW5kIGFuZCBzaGUgbmVlZGVkIGhlbHAuIEFuZCBpZiBJIGhhdmUgdG8gSSdkIHBlZSBvbiBhbnkgb25lIG9mIHlvdS4iLCJjaGFyYWN0ZXIiOiJKb2V5In0seyJxdW90ZSI6IkJ1dCB0aGV5IGRvbid0IGtub3cgdGhhdCB3ZSBrbm93IHRoZXkga25vdyB3ZSBrbm93ISIsImNoYXJhY3RlciI6IlBob2ViZSJ9LHsicXVvdGUiOiJUaGlzIGlzIGJyYW5kLW5ldyBpbmZvcm1hdGlvbiEiLCJjaGFyYWN0ZXIiOiJQaG9lYmUifSx7InF1b3RlIjoiUGhvZWJlLiBUaGF0J3MgUCwgYXMgaW4gUGhvZWJlLCBIIGFzIGluIGhvZWJlLCBPIGFzIGluIG9lYmUsIEUgYXMgaW4gZWJlLCBCIGFzIGluIGJlYmUsIGFuZCBFIGFzIGluICdFbGxvIHRoZXJlIG1hdGUuIiwiY2hhcmFjdGVyIjoiUGhvZWJlIn0seyJxdW90ZSI6IkknbSBub3Qgc28gZ29vZCB3aXRoIHRoZSBhZHZpY2UuIENhbiBJIGludGVyZXN0IHlvdSBpbiBhIHNhcmNhc3RpYyBjb21tZW50PyIsImNoYXJhY3RlciI6IkNoYW5kbGVyIn0seyJxdW90ZSI6IkkgZ290IG9mZiB0aGUgcGxhbmUuIiwiY2hhcmFjdGVyIjoiUmFjaGVsIn0seyJxdW90ZSI6IkhvdyB5b3UgZG9pbj8iLCJjaGFyYWN0ZXIiOiJKb2V5In0seyJxdW90ZSI6IldlIHdlcmUgb24gYSBicmVhayEiLCJjaGFyYWN0ZXIiOiJSb3NzIn0seyJxdW90ZSI6IkkgZ3JldyB1cCBpbiBhIGhvdXNlIHdpdGggTW9uaWNhLCBva2F5LiBJZiB5b3UgZGlkbid0IGVhdCBmYXN0LCB5b3UgZGlkbid0IGVhdC4iLCJjaGFyYWN0ZXIiOiJSb3NzIn0seyJxdW90ZSI6IlVuYWdpLiIsImNoYXJhY3RlciI6IlJvc3MifSx7InF1b3RlIjoiU21lbGx5IGNhdCwgc21lbGx5IGNhdCwgd2hhdCBhcmUgdGhleSBmZWVkaW5nIHlvdT8gU21lbGx5IGNhdCwgc21lbGx5IGNhdCwgaXQncyBub3QgeW91ciBmYXVsdC4iLCJjaGFyYWN0ZXIiOiJQaG9lYmUifSx7InF1b3RlIjoiSnVzdCBzbyB5b3Uga25vdywgaXQncyBub3QgdGhhdCBjb21tb24sIGl0IGRvZXNuJ3QgaGFwcGVuIHRvIGV2ZXJ5IGd1eSwgYW5kIGl0IGlzIGEgYmlnIGRlYWwhIiwiY2hhcmFjdGVyIjoiUmFjaGVsIn0seyJxdW90ZSI6IkhlcmUgY29tZSB0aGUgbWVhdCBzd2VhdHMuIiwiY2hhcmFjdGVyIjoiSm9leSJ9LHsicXVvdGUiOiJMb29rIGF0IG1lISBJJ20gQ2hhbmRsZXIhIENvdWxkIEkgYmUgd2VhcmluZyBhbnkgbW9yZSBjbG90aGVzPyEiLCJjaGFyYWN0ZXIiOiJKb2V5In1d
-  recorded_at: Mon, 24 May 2021 00:12:17 GMT
+  recorded_at: Mon, 24 May 2021 23:38:29 GMT
 recorded_with: VCR 6.0.0
